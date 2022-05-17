@@ -1,0 +1,26 @@
+  body {
+    padding: 0em;
+    background-color: #D6E6F2;
+    color: #416186;
+  }
+  hr {
+    width: 25%;
+    border-style: dotted none none;
+    border-width: 0.5em;
+    height: 0px;
+    color: #769FCD;
+  }
+  h2 {
+      color: #416186;
+  }
+  .pagehead {
+    border-radius: 1em;
+    background-color: #769FCD;
+    padding: 1em;
+    width: 100%;
+    color: aliceblue;
+  }
+
+  #headshot {
+    height: 150px;
+  }
