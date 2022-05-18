@@ -25,3 +25,7 @@
   #headshot {
     height: 150px;
   }
+
+  #headshot:hover {
+    height: 175px;
+  }
